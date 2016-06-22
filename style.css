@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-size: 12px;
+    line-height: 24px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+a img {
+    border: none;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+#box {
+    width: 335px;
+    height: 144px;
+    margin: 50px auto 0 auto;
+    overflow: hidden; /*  这个一定要加，超出的内容部分要隐藏，免得撑高中间部分 */
+}
+
+/*#cont1 {
+    background: lightcoral;
+}
+
+#cont2 {
+    background: lightblue;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
